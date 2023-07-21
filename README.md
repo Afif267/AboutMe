@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Afif Ismail,a Full-stack Developer passionate about building web applications using React and Node.js.
-- 👀 Currently, I'm working on a forex trading platform that aims to provide seamless and efficient trading experiences.
 <!---
 Afif267/Afif267 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
